@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/Hermesfuxi/spark-course.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["建议使用 node v13.5.0"],
+  "author": "hermesfuxi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Hermesfuxi/spark-course/issues"

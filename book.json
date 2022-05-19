@@ -7,7 +7,8 @@
   "gitbook": "3.2.3",
   "root": ".",
   "plugins": [
-    "-lunr","-search",
+    "-lunr",
+    "-search",
     "-sharing",
     "-default-theme",
     "search-pro",
@@ -17,7 +18,9 @@
     "expandable-chapters",
     "hide-element",
     "custom-favicon",
-    "-highlight","prism","prism-themes",
+    "-highlight",
+    "prism",
+    "prism-themes",
     "code",
     "sectionx",
     "flexible-alerts",
@@ -26,7 +29,7 @@
 
   "pluginsConfig": {
     "tbfed-pagefooter": {
-      "copyright":"Copyright &copy www.itheima.com/javase 2021",
+      "copyright":"https://hermesfuxi.github.io/",
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
