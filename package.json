@@ -4,7 +4,7 @@
   "description": "Spark 教程",
   "main": "index.js",
   "scripts": {
-    "deploy": "gitbook build && gh-pages -d _book"
+    "deploy": "nvm use 13.5.0 && gitbook build && gh-pages -d _book"
   },
   "repository": {
     "type": "git",
