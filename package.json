@@ -1,0 +1,23 @@
+{
+  "name": "spark-course",
+  "version": "1.0.0",
+  "description": "Spark 教程",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gitbook build && gh-pages -d _book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hermesfuxi/spark-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hermesfuxi/spark-course/issues"
+  },
+  "homepage": "https://github.com/Hermesfuxi/spark-course#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
